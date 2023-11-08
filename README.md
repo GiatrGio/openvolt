@@ -26,7 +26,7 @@ Follow these steps to set up and run the project locally.
 
 ```bash
 git clone https://github.com/GiatrGio/openvolt.git
-cd energyAPI
+cd openvolt
 ```
 
 ### Build the Project
