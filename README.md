@@ -1,6 +1,6 @@
-# MovieRama API
+# Openvolt API
 
-THE API for MovieRama, a movie review application.
+API with a single endpoint to calculate energy data for a single building.
 
 ## Table of Contents
 
@@ -25,8 +25,8 @@ Follow these steps to set up and run the project locally.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/GiatrGio/MovieRama_API.git
-cd MovieRama_API
+git clone https://github.com/GiatrGio/openvolt.git
+cd energyAPI
 ```
 
 ### Build the Project
